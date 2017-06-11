@@ -4,7 +4,6 @@ vowels = "aeiouy"
 consonants = "bcdfghjklmnpqrstvwxz"
 user_name = ""
 inputs = []
-dx=dy=0
 
 user_input_1 = input("How many letters would you like the name to be?: ")
 user_input_2 = input("How many names would you like to generate?: ")
